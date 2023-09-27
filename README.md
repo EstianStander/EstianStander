@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=EstianStander&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://programmerhumor.io/wp-content/uploads/2021/05/programmerhumor-io-stackoverflow-memes-javascript-memes-8ca351880ea513b.jpg' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EstianStander&icon=0&color=0)](https://visitcount.itsvg.in)
