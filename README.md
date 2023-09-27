@@ -20,6 +20,7 @@
 
 ### 😂 Random Dev Meme
 <img src='https://cdn.codegym.cc/images/article/b598281a-0ca5-4ba1-a5f5-cf44c71f6366/800.jpeg' style="height: 400px;"/>
+<img src='https://i.pinimg.com/originals/a0/90/90/a09090276be67d26013f6c5cda148170.jpg' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Estianstander&icon=0&color=8)](https://visitcount.itsvg.in)
