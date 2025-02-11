@@ -18,6 +18,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Estianstander&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
+<a href="https://app.daily.dev/estianstander"><img src="https://api.daily.dev/devcards/v2/nPkj2pqDMtguxzYULKEYN.png?type=default&r=0ta" width="356" alt="Estian Stander's Dev Card"/></a>
+
 ### 😂 Random Dev Meme
 <img src='https://cdn.codegym.cc/images/article/b598281a-0ca5-4ba1-a5f5-cf44c71f6366/800.jpeg' style="height: 400px;"/>
 <img src='https://i.pinimg.com/originals/a0/90/90/a09090276be67d26013f6c5cda148170.jpg' style="height: 400px;"/>
