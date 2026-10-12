@@ -1,30 +1,214 @@
-# 💫 About Me:
-🔭Passionate Learner: As a passionate and dedicated software engineer, I thrive on tackling complex, large-scale industrial challenges that demand innovative problem-solving. With a deep love for programming, I excel in high-pressure environments, consistently delivering solutions that enhance operational efficiency and drive company success. My expertise lies in analyzing intricate systems, optimizing performance, and implementing robust fixes that elevate productivity, making me a valuable asset to any team aiming to achieve greater efficiency and excellence.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,45:24283b,100:7aa2f7&amp;height=230&amp;section=header&amp;text=Estian%20Stander&amp;fontSize=62&amp;fontColor=c0caf5&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Industrial%20Software%20Engineer%20%C2%B7%20South%20Africa&amp;descAlignY=54&amp;descAlign=50&amp;descSize=20&amp;descColor=7dcfff" width="100%" alt="Estian Stander header" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Estianstander&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Estianstander&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Estianstander&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3600&amp;pause=900&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=50&amp;lines=Industrial+Software+Engineer;C%23+%2F+.NET+Developer;Automation+%26+PLC+Enthusiast;Always+Learning" alt="Typing animation: Industrial Software Engineer, C# / .NET Developer, Automation and PLC Enthusiast, Always Learning" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Estianstander&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+**Building software for factories, workshops, and the web.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<a href="https://github.com/EstianStander"><img src="https://img.shields.io/badge/GitHub-EstianStander-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub EstianStander" /></a>
+<a href="https://app.daily.dev/estianstander"><img src="https://img.shields.io/badge/daily.dev-estianstander-000000?style=for-the-badge&amp;logo=dailydotdev&amp;logoColor=white" alt="daily.dev estianstander" /></a>
+<a href="mailto:estian.stander@outlook.com"><img src="https://img.shields.io/badge/Email-estian.stander%40outlook.com-0078D4?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" alt="Email estian.stander@outlook.com" /></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Estianstander&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+<br/>
 
-<a href="https://app.daily.dev/estianstander"><img src="https://api.daily.dev/devcards/v2/nPkj2pqDMtguxzYULKEYN.png?type=default&r=0ta" width="356" alt="Estian Stander's Dev Card"/></a>
+<img src="https://komarev.com/ghpvc/?username=EstianStander&amp;label=Profile%20views&amp;color=7aa2f7&amp;style=for-the-badge" alt="Profile views" />
 
-### 😂 Random Dev Meme
-<img src='https://cdn.codegym.cc/images/article/b598281a-0ca5-4ba1-a5f5-cf44c71f6366/800.jpeg' style="height: 400px;"/>
-<img src='https://i.pinimg.com/originals/a0/90/90/a09090276be67d26013f6c5cda148170.jpg' style="height: 400px;"/>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Estianstander&icon=0&color=8)](https://visitcount.itsvg.in)
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm Estian Stander, an industrial software engineer in South Africa and a work-integrated learning student at Belgium Campus. I take on complex shop-floor problems and turn them into software people can rely on: desktop tools, web apps, and automation that keep work moving. I'm a passionate learner, and I get better by building.
+
+- 🇿🇦 Based in South Africa
+- 🎓 Work-integrated learning student at Belgium Campus
+- 🏭 Industrial and manufacturing software
+- 🖥️ C# / .NET 8 WinForms, Angular, Node, and Express
+- ⚙️ PLC, automation, and control panels
+- ☁️ Cloud on Azure and Render
+- 📚 Always learning, and happiest when the solution ships
+
+## Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,js,php,py,bash,ts&amp;theme=dark&amp;perline=9" alt="C, C#, C++, CSS, JavaScript, PHP, Python, Shell, TypeScript" />
+</p>
+
+### Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,express,nodejs,npm&amp;theme=dark&amp;perline=5" alt=".NET, Angular, Express, Node.js, npm" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt=".NET 8" />
+  <img src="https://img.shields.io/badge/Angular.js-E23237?style=for-the-badge&amp;logo=angularjs&amp;logoColor=white" alt="Angular.js" />
+</p>
+
+### Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,gcp,azure&amp;theme=dark&amp;perline=3" alt="Cloudflare, Google Cloud, Azure" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&amp;logo=render&amp;logoColor=black" alt="Render" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&amp;theme=dark&amp;perline=2" alt="MySQL, MongoDB" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="Microsoft SQL Server" />
+</p>
+
+### Mobile & Game
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple,unity,unreal&amp;theme=dark&amp;perline=3" alt="iOS, Unity, Unreal Engine" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android" />
+</p>
+
+### Design
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ae,ps,pr,blender,figma&amp;theme=dark&amp;perline=5" alt="After Effects, Photoshop, Premiere Pro, Blender, Figma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" alt="Canva" />
+</p>
+
+### Tools & Hardware
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,raspberrypi&amp;theme=dark&amp;perline=4" alt="Git, GitHub, Linux, Raspberry Pi" />
+</p>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/EstianStander/StudentManagementSystem">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstianStander&amp;repo=StudentManagementSystem&amp;theme=tokyonight&amp;hide_border=true" alt="StudentManagementSystem" />
+      </a>
+      <br/>
+      <sub>C# WinForms app for student records, using text files and Git.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/EstianStander/ABP-Timer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstianStander&amp;repo=ABP-Timer&amp;theme=tokyonight&amp;hide_border=true" alt="ABP-Timer" />
+      </a>
+      <br/>
+      <sub>Node.js and Express workshop bay timer, with an admin view and delay log.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/EstianStander/Quiz_Web-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstianStander&amp;repo=Quiz_Web-&amp;theme=tokyonight&amp;hide_border=true" alt="Quiz Web" />
+      </a>
+      <br/>
+      <sub>A site that explains how the internet works, then quizzes you on it.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/EstianStander/Zelly-Rose-Home">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstianStander&amp;repo=Zelly-Rose-Home&amp;theme=tokyonight&amp;hide_border=true" alt="Zelly Rose Home" />
+      </a>
+      <br/>
+      <sub>HTML and CSS site for Zelly Rose.</sub>
+    </td>
+  </tr>
+</table>
+
+## GitHub Stats
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=EstianStander&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="Estian Stander GitHub stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstianStander&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="Estian Stander top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=EstianStander&amp;theme=tokyonight&amp;hide_border=true" alt="Estian Stander contribution streak" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<!-- Canonical host github-readme-activity-graph.vercel.app currently returns HTTP 402. This is a live community deployment of the same project. -->
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=EstianStander&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;radius=8" alt="Estian Stander GitHub activity graph" />
+</a>
+
+<br/>
+
+<!-- Canonical host github-profile-trophy.vercel.app currently returns HTTP 402. This is a documented load-balancing endpoint of ryo-ma/github-profile-trophy. -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=EstianStander&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=false&amp;margin-w=8&amp;column=4" alt="Estian Stander GitHub trophies" />
+</a>
+
+</div>
+
+## Contribution Snake
+
+<div align="center">
+
+Redrawn daily by [Platane/snk](https://github.com/Platane/snk).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EstianStander/EstianStander/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EstianStander/EstianStander/output/github-contribution-grid-snake.svg" />
+  <img alt="Estian Stander contribution snake" src="https://raw.githubusercontent.com/EstianStander/EstianStander/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+## daily.dev
+
+<div align="center">
+
+<a href="https://app.daily.dev/estianstander">
+  <img src="https://api.daily.dev/devcards/v2/nPkj2pqDMtguxzYULKEYN.png" width="380" alt="Estian Stander's daily.dev Dev Card" />
+</a>
+
+</div>
+
+## Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Random developer quote" />
+
+</div>
+
+## Dev Meme
+
+<details>
+  <summary><b>😂 Click for a dev meme</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/deep5050/programming-memes/main/memes/1/1200.png" width="480" alt="It works on my machine" />
+  </div>
+</details>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7aa2f7,55:24283b,100:1a1b27&amp;height=130&amp;section=footer" width="100%" alt="Footer wave" />
+
+</div>
